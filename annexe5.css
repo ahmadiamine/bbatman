@@ -1,0 +1,57 @@
+body {background-image: url('gg.png');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+#p{color: yellow;
+    display: flex;
+    justify-content:center; ;font-size: 401%;text-shadow: 0 4px 3px  rgba(0, 0, 0, 0.8) , -4px 0 3px  rgba(255, 255, 255, 0.5)}
+
+
+#x{font-size: 250%;color: rgba(41, 128, 185, 1);text-shadow: 0 4px 3px rgba(0, 0, 0, 0.5), -4px 0 3px rgba(34, 49, 63, 0.8)}
+#y{color: gray ;font-size: 180%}
+
+#i{display: flex;
+    justify-content:right}
+
+
+
+#bb {
+  text-decoration: none;
+  background-color: #bb;
+  height: 52px;
+  width: 80px;
+  border-radius: 45px;
+  box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.4);
+  border-style: outset;
+  font: italic;
+  color: black; /* Text color */
+}
+
+#bb:hover {
+  text-decoration: none;
+  background-color: red; /* Mysterious red */
+  height: 62px;
+  width: 90px;
+  border-radius: 45px;
+  box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.4);
+  border-style: outset;
+  color: #551A8B; /* Deep purple */
+}
+
+#bb:active {
+  text-decoration: none;
+  background-color: #551A8B; /* Deep purple */
+  height: 62px;
+  width: 90px;
+  border-radius: 45px;
+  box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.4);
+  border-style: outset;
+  color: black; /* Text color */
+}
+
+
+
+

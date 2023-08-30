@@ -1,0 +1,45 @@
+body{
+    background-image: url('cover.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body{background-color:white}
+
+#p{color: yellow;
+    display: flex;
+    justify-content: center;font-size: 551%;text-shadow: 0 4px 3px rgba(0, 255, 255, 0.5), -4px 0 3px rgba(255, 0, 0, 0.5)
+}
+
+#x{color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+
+#b{padding: 4.5em}
+
+#b2{display: flex;
+    justify-content: center ;position: relative;width: : 40%;height: 20%}
+
+
+
+#im{text-decoration: none; 
+ height: 52px ;
+  width: 80px ; display: flex;
+    justify-content: center
+}
+
+
+#im:hover{text-decoration: none;;
+ height: 62px ;
+  width: 90px ; 
+ 
+
+ #im:active{text-decoration: none; ;
+ height: 62px ;
+  width: 90px ; 
+ 
+
+
